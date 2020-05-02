@@ -1,0 +1,8 @@
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\ChatApp\Core\obj\Debug\netstandard2.0\Core.pdb
